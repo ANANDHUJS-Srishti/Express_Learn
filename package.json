@@ -1,0 +1,16 @@
+{
+  "name": "debugmedia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"debugmedia  Http/http",
+    "dev":"nodemon Http/http"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
